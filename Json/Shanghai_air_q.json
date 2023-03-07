@@ -1,0 +1,23 @@
+{
+    "weather": {
+        "location": {
+            "country": "China",
+            "city":"Shanghai"
+            },
+"Air Quality Forecast":{
+          "record": [{
+                "date":"SunDay/28/2021",         
+                "Hour":3,
+                "PM2.5": [141,106],
+                "PM10": [52,38],
+                "O3": [7,3],
+                "UVI": 2,
+                "Wind": 0,
+                "Speed(m/s)": 6,
+                "Temp": 18,
+                "Humidity": "6:33 ~ 16:53" 
+       }
+     ]
+   }
+ }
+}

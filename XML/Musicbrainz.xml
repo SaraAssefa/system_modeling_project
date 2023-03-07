@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Tracklist>
+   <song id="A1" rating="" length="3.2">
+      <artist>Édith Piaf</artist>
+      <Title>La Vie en rose</Title>
+      <recordingof>
+         <lyricist>Édith Piaf</lyricist>
+         <composers>
+            <composer>Louiguy</composer>
+            <composer>Édith Piaf</composer>
+         </composers>
+         <publishers>
+            <language lang="fr">Éditions Beuscher Arpège</language>
+            <language lang="jap">ピアーミュージック</language>
+         </publishers>
+      </recordingof>
+   </song>
+   <song id="A2" rating="" length="3.23">
+      <artist>Édith Piaf</artist>
+      <Title>Hymne à l’amour</Title>
+      <recordingof>
+         <lyricist>Édith Piaf</lyricist>
+         <composer>Marguerite Monnot</composer>
+      </recordingof>
+   </song>
+   <song id="A3" rating="" length="4.16">
+      <artist>Édith Piaf</artist>
+      <Title>J’m’en fous pas mal</Title>
+      <vocals date="1946-10-09">
+         <name>Édith Piaf</name>
+      </vocals>
+      <conductor date="1946-10-09">
+         <name>Guy Luypaerts date</name>
+      </conductor>
+      <recordingof date="1946-10-09">
+         <name>J’m’en fous pas mal</name>
+         <lyricist>Michel Emer</lyricist>
+         <composer>Michel Emer</composer>
+      </recordingof>
+   </song>
+   <song id="A4" rating="" length="2.09">
+      <artist>Édith Piaf</artist>
+      <Title>Johnny tu n’es pas un ange</Title>
+      <vocals date="1953-12-24">
+         <name>Édith Piaf</name>
+      </vocals>
+      <conductor date="1953-12-24">
+         <name>Robert Chauvigny</name>
+      </conductor>
+      <recordingof date="1953-12-24">
+         <name>Johnny, tu n’es pas un ange</name>
+         <lyricists>
+            <lyricist>Liviu Deleanu</lyricist>
+            <lyricist>Paddy Roberts</lyricist>
+            <lyricist>Marcel Stellman</lyricist>
+         </lyricists>
+         <composers>
+            <composer>Les Paul</composer>
+            <composer>Richard Stein</composer>
+         </composers>
+         <translator>Francis Lemarque</translator>
+         <translatedversionof>Johnny</translatedversionof>
+      </recordingof>
+   </song>
+   <song id="A5" rating="" length="3.34">
+      <artist>Édith Piaf</artist>
+      <Title>Bravo pour le clown !</Title>
+      <recordingof>
+         <name>Bravo pour le clown !</name>
+         <lyricist>Henri Contet</lyricist>
+         <composer>Louiguy</composer>
+      </recordingof>
+   </song>
+   <song id="A6" rating="" length="3.02">
+      <artist>Édith Piaf</artist>
+      <Title>L’Accordéoniste</Title>
+      <recordingof>
+         <name>L’Accordéoniste</name>
+         <lyricist>Michel Emer</lyricist>
+         <composer>Michel Emer</composer>
+      </recordingof>
+   </song>
+   <song id="A7" rating="" length="2.02">
+      <artist>Édith Piaf</artist>
+      <Title>L’Homme à la moto</Title>
+      <vocals>Édith Piaf</vocals>
+      <recordingof date="1956">
+         <name>L’Homme à la moto</name>
+         <lyricist>Jerry Leiber</lyricist>
+         <composer>Mike Stoller</composer>
+         <translator>Jean Dréjac</translator>
+         <translatedversionsof>
+            <translatedversionof>Black Denim Trousers</translatedversionof>
+            <translatedversionof>BMotorcycle Boots</translatedversionof>
+         </translatedversionsof>
+      </recordingof>
+   </song>
+   <song id="B1" rating="" length="2.54">
+      <artist>Édith Piaf</artist>
+      <Title>La Foule</Title>
+      <recordingof>
+         <name>La Foule</name>
+         <lyricist>Michel Rivgauche</lyricist>
+         <composer name="Ángel Cabral" date="1936" />
+         <publisher>Éditions Métropolitaines</publisher>
+         <versionof>Que nadie sepa mi sufrir</versionof>
+      </recordingof>
+   </song>
+   <song id="B2" rating="" length="2.57">
+      <artist>Édith Piaf</artist>
+      <Title>Mon manège a moi</Title>
+      <vocals>Édith Piaf</vocals>
+      <recordingof>
+         <name>Mon manège a moi</name>
+         <lyricist>Jean Constantin</lyricist>
+         <composer>Norbert Glanzberg</composer>
+      </recordingof>
+   </song>
+   <song id="B3" rating="****" length="4.27">
+      <artist>Édith Piaf</artist>
+      <Title>Milord</Title>
+      <vocals date="1959-06-05">
+         <name>Édith Piaf</name>
+      </vocals>
+      <conductor date="1959-06-05">
+         <name>Robert Chauvigny</name>
+      </conductor>
+      <recordingof date="1959-06-05">
+         <name>Milord</name>
+         <lyricist>Georges Moustaki</lyricist>
+         <composer>Marguerite Monnot</composer>
+      </recordingof>
+   </song>
+   <song id="B4" rating="*****" length="2.23">
+      <artist>Édith Piaf</artist>
+      <Title>Non, je ne regrette rien</Title>
+      <vocals date="1960-11-10">
+         <name>Édith Piaf</name>
+      </vocals>
+      <conductor date="1960-11-10">
+         <name>Robert Chauvigny</name>
+      </conductor>
+      <recordingof date="1960-11-10">
+         <name>Non, je ne regrette rien</name>
+         <lyricist>Michel Vaucaire</lyricist>
+         <composer>Charles Dumont</composer>
+      </recordingof>
+   </song>
+   <song id="B5" rating="" length="3.24">
+      <artist>Édith Piaf</artist>
+      <Title>Les Mots d’amour</Title>
+      <recordingof>
+         <name>Les Mots d’amour</name>
+         <lyricist>Michel Rivgauche</lyricist>
+         <composer>Charles Dumont</composer>
+      </recordingof>
+   </song>
+   <song id="B6" rating="" length="3.20">
+      <artist>Édith Piaf</artist>
+      <Title>Mon Dieu</Title>
+      <recordingof>
+         <name>Mon Dieu</name>
+         <lyricist>Michel Vaucaire</lyricist>
+         <composer>Charles Dumont</composer>
+      </recordingof>
+   </song>
+   <song id="B7" rating="" length="2.25">
+      <Title>À quoi ça sert l’amour</Title>
+      <artist>Édith Piaf</artist>
+      <vocales>
+         <vocals date="1962-09-03">
+            <name>Édith Piaf</name>
+         </vocals>
+         <vocals date="1962-09-03">
+            <name>Théo Sarapo</name>
+         </vocals>
+      </vocales>
+      &gt;
+      <conductor date="1962-09-03">
+         <name>Théo Sarapo</name>
+      </conductor>
+      <recordingof date="1962-09-03">
+         <name>À quoi ça sert l’amour</name>
+         <lyricist>Michel Emer</lyricist>
+         <composer>Michel Emer</composer>
+      </recordingof>
+   </song>
+</Tracklist>
